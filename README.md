@@ -1,5 +1,9 @@
-# Adv_Lab_Individual_Learning
-Final project for Advanced Programming
+Welcome to Jacob Malland's Personal Interest Project!
 
-Replace this with a daily detail of what you have learned/done.
-This detail should be well formatted, google how-to-create github wiki for more information
+## Table Of Contents
+| Day |  Title |
+|-----|--------|
+|  0  | [Table Of Contents](https://github.com/Homestead-High-School/personal-project-JMalland/wiki#table-of-contents)  |
+|  1  |  [Getting Words & Understanding Parsing](https://github.com/Homestead-High-School/personal-project-JMalland/wiki/Day-01:-Words-and-Parsing#getting-words--understanding-parsing)  |
+|  2 ~ 5  |  [Board GUI Structure](https://github.com/Homestead-High-School/personal-project-JMalland/wiki/Day-02-~-Day-05:-Board-GUI-Structure-&-Custom-Classes#board-gui-structure)  |
+
